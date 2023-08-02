@@ -1,3 +1,3 @@
 window.onload = function() {
-  document.getElementById('main-content').innerHTML = 'Hello, 爱你的小昆昆 :)'
+  document.getElementById('main-content').innerHTML = 'Hello 小凤, 爱你的小昆昆 :)'
 }
